@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/Kaiying-Yu/argocd-example-apps",
-  "drySha": "e081b3099bd66ae1d32bf2098a22ccbadb8ac7af",
+  "drySha": "b3dd909121074d97071f7e8c27d6e02b675a70b5",
   "author": "Lynn Yu <yu.kaiyi@northeastern.edu>",
-  "date": "2026-07-01T14:16:42-07:00",
-  "subject": "demo: bump guestbook replicas to 1 (repro PECS gate ordering)"
+  "date": "2026-07-01T16:21:35-07:00",
+  "subject": "demo: bump guestbook replicas (verify DAG ordering fix)"
 }
