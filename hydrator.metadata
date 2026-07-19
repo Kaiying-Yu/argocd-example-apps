@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/Kaiying-Yu/argocd-example-apps",
-  "drySha": "eeb66c93adba71fe83d1c3d85588bd46242d3513",
+  "drySha": "0efb4a41c59e5c158761e779827df41a7b7ee347",
   "author": "Lynn Yu <yu.kaiyi@northeastern.edu>",
-  "date": "2026-07-06T09:50:27-07:00",
-  "subject": "demo: bump guestbook replicas to 1"
+  "date": "2026-07-19T15:26:02-07:00",
+  "subject": "demo: reset replica to 1again"
 }
